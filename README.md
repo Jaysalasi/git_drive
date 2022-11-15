@@ -49,3 +49,20 @@ dependencies:
 
 And also to me 😁 **[@omegaui](https://github.com/omegaui)**
 
+# ![](https://img.icons8.com/3d-fluency/48/null/ask-question.png) FAQs
+
+- ### How much storage space can we utilize?
+> **[See your question's answer resides here](https://stackoverflow.com/questions/38768454/repository-size-limits-for-github-com)**
+
+- Does this App collects user info?
+> **No! Never.**
+
+- Does this App have any hidden pricing?
+> **No! This program is entirely free, it doesn't charge even a penny for anything. This program is Licensed under GNU
+> GPL v3**
+
+- Is there an iOS version?
+> **I don't have any iOS device to compile the App, if you have you can fork it, and Of Course, contributions are always welcome.**
+
+- Is there any web version available?
+> **Planning...**
